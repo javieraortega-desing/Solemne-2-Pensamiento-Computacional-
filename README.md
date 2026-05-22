@@ -108,8 +108,7 @@ Las partículas cercanas muestran caritas y generan explosión visual.
 
 El siguiente diagrama representa el funcionamiento lógico del sistema generativo interactivo desarrollado en p5.js.
 
-![Diagrama de flujo](<img width="1024" height="1536" alt="diagrama-flujo" src="https://github.com/user-attachments/assets/f4c1b246-c78e-42c5-bc95-a9ab37cb862e" />
-)
+![Diagrama de flujo](diagrama-flujo.png)
 
 
 # Código relevante
