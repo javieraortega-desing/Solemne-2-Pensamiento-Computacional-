@@ -175,4 +175,4 @@ La propuesta busca generar una experiencia visual dinámica donde movimiento, fo
 
 Javiera Ortega  
 Solemne II — Pensamiento Computacional  
-23/05/2026
+22/05/2026
