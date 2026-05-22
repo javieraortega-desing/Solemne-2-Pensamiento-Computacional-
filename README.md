@@ -143,4 +143,4 @@ La función `random()` genera pequeñas variaciones que producen movimiento org�
 
 Javiera Ortega  
 Solemne II — Pensamiento Computacional  
-2026
+23/05/2026
