@@ -124,7 +124,7 @@ Primeras pruebas de comportamiento y movimiento del sistema.
 
 Exploración de interacción y reacción visual mediante cercanía del mouse.
 
-![Proceso 2](proceso2.mp4)
+![Proceso 2](proceso2.png)
 
 Resultado final del sistema visual interactivo.
 
