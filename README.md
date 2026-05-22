@@ -126,9 +126,9 @@ Exploración de interacción y reacción visual mediante cercanía del mouse.
 
 ![Proceso 2](proceso2.png)
 
-Resultado final del sistema visual interactivo.
+Resultado de reccion ah el mouse (Aparicion de las caritas).
 
-![Resultado final](resultado-final.png)
+![Resultado final](resultado-reacion-caritas.png)
 
 
 
