@@ -115,7 +115,22 @@ El siguiente diagrama representa el funcionamiento lógico del sistema generativ
 
 ![Diagrama de flujo](diagrama-flujo.png)
 
+---
+# Proceso visual
 
+Primeras pruebas de comportamiento y movimiento del sistema.
+
+![Proceso 1](proceso1.png)
+
+Exploración de interacción y reacción visual mediante cercanía del mouse.
+
+![Proceso 2](proceso2.png)
+
+Resultado final del sistema visual interactivo.
+
+![Resultado final](resultado-final.png)
+
+---
 # Código relevante
 
 ```javascript
