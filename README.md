@@ -12,11 +12,10 @@ Las partículas reaccionan al movimiento del mouse, cambian de forma según cerc
 
 # Vista previa
 
-[Ver video del proyecto](    
+    
 
 https://github.com/user-attachments/assets/e092cc5b-f844-403e-8d52-f16eadb9d89c
 
-)
 
 ---
 
