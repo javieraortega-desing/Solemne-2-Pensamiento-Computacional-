@@ -12,7 +12,11 @@ Las partículas reaccionan al movimiento del mouse, cambian de forma según cerc
 
 # Vista previa
 
-![captura](captura1.png)
+[Ver video del proyecto](    
+
+https://github.com/user-attachments/assets/e092cc5b-f844-403e-8d52-f16eadb9d89c
+
+)
 
 ---
 
@@ -102,22 +106,7 @@ Las partículas cercanas muestran caritas y generan explosión visual.
 
 # Diagrama de flujo
 
-```text
-INPUT
-(mouse / click / teclado)
 
-↓
-
-PROCESO
-(random + movimiento + condicionales)
-
-↓
-
-OUTPUT
-(partículas interactivas dinámicas)
-```
-
----
 
 # Código relevante
 
