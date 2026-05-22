@@ -128,7 +128,7 @@ Exploración de interacción y reacción visual mediante cercanía del mouse.
 
 Resultado de reccion ah el mouse (Aparicion de las caritas).
 
-![Resultado caritas](resultado-reacion-caritas.png)
+![Resultado caritas](resultado-reaccion-caritas.png)
 
 
 
