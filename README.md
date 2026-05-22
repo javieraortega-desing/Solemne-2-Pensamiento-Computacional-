@@ -10,6 +10,12 @@ Las partículas reaccionan al movimiento del mouse, cambian de forma según cerc
 
 ---
 
+# Link al sketch en p5.js
+
+https://editor.p5js.org/javiera.ortega5/sketches/rlTh-k19n
+
+---
+
 # Vista previa
 
     
@@ -138,6 +144,13 @@ La función `random()` genera pequeñas variaciones que producen movimiento org�
 - p5.js
 - JavaScript
 - GitHub
+---
+
+# Reflexión final
+
+El proyecto explora cómo reglas computacionales simples pueden construir comportamientos visuales complejos y cambiantes en tiempo real.
+
+La propuesta busca generar una experiencia visual dinámica donde movimiento, forma y reacción se transforman continuamente a partir de la relación entre usuario y sistema.
 
 ---
 
